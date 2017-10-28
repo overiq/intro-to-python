@@ -1,0 +1,3 @@
+import reusing_identifiers
+
+reusing_identifiers.great_printer()
